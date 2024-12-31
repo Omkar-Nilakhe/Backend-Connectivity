@@ -23,7 +23,6 @@ export default class ApiClass extends Component {
     return (
       <div>
          <>
-         <button>Nothing</button>
             <h3>List of Employees</h3>
             <table border="1px">
                 <thead>
